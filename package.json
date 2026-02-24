@@ -20,13 +20,13 @@
     "react-dom": "*"
   },
   "devDependencies": {
-    "@eslint/js": "*",
+    "@eslint/js": "^9.2.0",
     "@types/node": "*",
     "@types/react": "*",
     "@types/react-dom": "*",
     "@vitejs/plugin-react": "*",
-    "eslint": "*",
-    "eslint-plugin-react-hooks": "*",
+    "eslint": "^9.39.3",
+    "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "*",
     "globals": "*",
     "typescript": "*",
