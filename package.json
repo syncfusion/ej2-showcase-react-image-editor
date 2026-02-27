@@ -1,0 +1,36 @@
+{
+  "name": "imageeditor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-base": "*",
+    "@syncfusion/ej2-react-buttons": "*",
+    "@syncfusion/ej2-react-dropdowns": "*",
+    "@syncfusion/ej2-react-image-editor": "*",
+    "@syncfusion/ej2-react-inputs": "*",
+    "@syncfusion/ej2-react-navigations": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "@types/node": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "@vitejs/plugin-react": "*",
+    "eslint": "^9.39.3",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "*",
+    "globals": "*",
+    "typescript": "*",
+    "typescript-eslint": "*",
+    "vite": "*"
+  }
+}
